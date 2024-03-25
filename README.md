@@ -1,1 +1,1 @@
-Python Assignment from basic code
+Python Practice Assignment  repository from basic code
